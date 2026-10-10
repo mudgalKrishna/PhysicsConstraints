@@ -1,0 +1,7 @@
+marimo
+torch
+torch_geometric
+numpy
+pandas
+matplotlib
+scipy
