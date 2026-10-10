@@ -11,10 +11,6 @@
 # ]
 # ///
 
-import marimo
-
-app = marimo.App(width="full")
-
 
 @app.cell
 def _(mo):
@@ -48,7 +44,7 @@ def _():
     import torch
     import torch.nn as nn
     from scipy import stats
-    import marimo as mo
+    
 
     return Path, json, math, mo, nn, np, pd, plt, stats, time, torch
 
