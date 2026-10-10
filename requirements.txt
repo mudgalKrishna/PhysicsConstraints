@@ -1,4 +1,3 @@
-marimo
 torch
 torch_geometric
 numpy
